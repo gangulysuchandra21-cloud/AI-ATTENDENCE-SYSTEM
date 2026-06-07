@@ -63,7 +63,7 @@ AI-ATTENDENCE-SYSTEM/
 
 ## Author
 
-Suchandra Ganguly
+Suchandra Ganguly 
 
 ## License
 
