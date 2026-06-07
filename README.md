@@ -69,6 +69,6 @@ Suchandra Ganguly
 
 This project is developed for educational and academic purposes.
 
-
-
-This README looks professional and is suitable for an MCA mini-project submission.
+requirements.txt file:
+pandas
+openpyxl
